@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274776481248",
+    "project_id": "student-productivity-system",
+    "storage_bucket": "student-productivity-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274776481248:android:91c73a92f5d4dd5ba65f85",
+        "android_client_info": {
+          "package_name": "com.example.fyp_student_productivity_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjvz9sUNNPEdUt9H6Ph2v4pEeOWaWeDg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
